@@ -1,4 +1,9 @@
 
+new optional refind bootloader and theme
+
+![Screenshot_20250609_235734_Gallery](https://github.com/user-attachments/assets/ef555003-7f45-4a95-827e-f1e33a6d0b86)
+
+
 
 cachyos welcome 
 
