@@ -17,6 +17,8 @@
 [![Version](https://img.shields.io/github/v/release/claudemods/?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
 
 
+##  [Photos](https://github.com/claudemods/SpitFireCKHE/tree/main/Photos)
+
 ## SpitFire CachyOS Kde Handheld Edition! 🎮
 **Unofficial Custom Arch Distribution Inspired By Windows Built On Blazingly Fast CachyOS! 🚀**
  
