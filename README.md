@@ -60,9 +60,9 @@
 
 simply setup your drive with gparted as gpt then make a fat32 1.5gb seto flags boot and esp and make a btrfs the rest
 
-dd spitfirebootbackup to drive 1
+dd spitfirebootbackup to partition 1
 
-dd spitfirerootbackup to drive 2
+dd spitfirerootbackup to partition 2
 
 Example dd command: sudo dd if=/home/spitfire/Downloads/spitfirebootbackup.img of=/dev/sdb1 bs=4M status=progress && sync
 
