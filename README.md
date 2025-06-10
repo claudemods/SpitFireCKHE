@@ -56,7 +56,7 @@
 ## built for amd devices i have a AMD Radeon RX 5700 XT And Lenovo Legion Go S i use this on
 
 
-## Installation Methods upcoming v1.0
+## Installation Methods for provided .imgs as iso is yet to be made
 
 simply setup your drive with gparted as gpt then make a fat32 1.5gb seto flags boot and esp and make a btrfs the rest
 
