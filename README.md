@@ -58,6 +58,18 @@
 
 ## Installation Methods upcoming v1.0
 
+simply setup your drive with gparted as gpt then make a fat32 1.5gb seto flags boot and esp and make a btrfs the rest
+
+dd spitfirebootbackup to drive 1
+
+dd spitfirerootbackup to drive 2
+
+Example dd command: sudo dd if=/home/spitfire/Downloads/spitfirebootbackup.img of=/dev/sdb1 bs=4M status=progress && sync
+
+reboot and login
+
+optional refind and theme (enter command in konsole "sudo refind-install" then reboot and login again)
+
 
 
 
